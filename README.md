@@ -1,6 +1,8 @@
 # NodeJS (Express) Authentication with Passport
 A repo for my article on setting up Passport with Express
 
+<a href="https://codeclimate.com/github/CodeLikeAGirl29/express-auth/maintainability"><img src="https://api.codeclimate.com/v1/badges/f9e1ac3f94af4cc10e44/maintainability" /></a>
+
 ### Prerequisites
 
 Ensure you have the following installed on your local machine:
